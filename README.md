@@ -1,4 +1,10 @@
 # MRI Tumor Detection System
+![image](https://github.com/user-attachments/assets/40dd6476-7d92-4bd2-a60d-6bfe280768a7)
+![image](https://github.com/user-attachments/assets/02303f51-c45a-4e7d-88b9-0b8974c792ab)
+![image](https://github.com/user-attachments/assets/da5e807b-b5e5-48e3-937b-d3ba94c09b1c)
+![image](https://github.com/user-attachments/assets/5957061f-5fad-4a75-8f57-9df70385e217)
+
+
 
 Le **MRI Tumor Detection System** est une application web permettant de détecter la présence de tumeurs cérébrales à partir d'images IRM (Imagerie par Résonance Magnétique). Ce système utilise un modèle de machine learning pré-entraîné basé sur **TensorFlow** et **Keras** pour effectuer la classification des images.
 
@@ -33,7 +39,3 @@ Le but de ce projet est de démontrer l'application des techniques d'intelligenc
 
 Ce projet est à des fins éducatives et de démonstration uniquement. Il ne doit pas être utilisé dans un cadre clinique réel sans validation médicale. Le modèle a été entraîné sur un jeu de données spécifique et ne peut garantir des résultats parfaits pour toutes les images IRM.
 
-## Auteurs
-
-**Amine**  
-Contact : amine@example.com
